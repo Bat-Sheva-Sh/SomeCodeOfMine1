@@ -7,6 +7,7 @@ namespace _12._01hw
 
         static void Main(string[] args)
         {
+            //dont forget me!!!
             //ex 67
             //BuildString("iabgrtlstypm", 31605);
             //ex 68
